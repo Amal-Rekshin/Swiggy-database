@@ -92,7 +92,7 @@ CREATE TABLE user_table (
 
 ## 👨‍💻 Author
 
-**Spark**
+**Antony Amal Rekshin A**
 
 ---
 
